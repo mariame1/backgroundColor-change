@@ -1,0 +1,12 @@
+
+
+body{
+    display: block;
+    text-align: center;
+}
+
+.btn {
+    margin-top: 50vh;
+    color: white;
+    background-color: red;
+}
